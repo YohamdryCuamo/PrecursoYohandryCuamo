@@ -1,2 +1,1 @@
-# PrecursoYohandryCuamo
-respaldo re curso de programacion 
+Este proyecto es una prueba para generar repositorio online
